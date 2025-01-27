@@ -1,14 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
-import java.awt.event.ActionEvent;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
-
 
 public class ButtonGame {
     private static final int GRID_SIZE = 3;
